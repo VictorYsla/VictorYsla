@@ -5,8 +5,13 @@
 </p>
 
 
-![Twitch Status](https://img.shields.io/twitch/status/victor_ysla)
-![GitHub followers](https://img.shields.io/github/followers/VictorYsla)
+<a href="https://www.twitch.tv/victor_ysla" target="_blank">
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/victor_ysla" style="max-width: 100%;">
+</a>
+
+<a href="https://github.com/VictorYsla" target="_blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/VictorYsla" style="max-width: 100%;">
+</a>
 
 
 <h2 align="">About Me</h2>
