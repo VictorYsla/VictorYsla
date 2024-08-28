@@ -67,9 +67,14 @@
 
 <h2 class="heading-element" dir="auto">⚙️ &nbsp;GitHub Analytics</h2>
 
+<a href="https://github.com/VictorYsla" target="_blank">
+
 <img height="180em" src="https://camo.githubusercontent.com/516c64416aa1ef1f69fdd8b7a82c1a64deb308efb94e482d076fc3906bfb60f5/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d566963746f7259736c612673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorYsla&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 
 <img height="180em" src="https://camo.githubusercontent.com/37c22bf0f494520881863d5426fe537b8cb962900989ab123675934419b7dbe0/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d566963746f7259736c61266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorYsla&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
+
+<a/>
+
 <!--
 **VictorYsla/VictorYsla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
