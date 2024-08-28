@@ -63,7 +63,10 @@
 
 <h2>Connect with me</h2>
 
+<a href="https://www.linkedin.com/in/fernando-gallardo-ysla-667a12206/" target="_blank">
 <img alt="Linkedin" title="VictorYsla" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://www.linkedin.com/in/fernando-gallardo-ysla-667a12206/" style="max-width: 100%;">
+<a/>
+
 
 <h2 class="heading-element" dir="auto">⚙️ &nbsp;GitHub Analytics</h2>
 
