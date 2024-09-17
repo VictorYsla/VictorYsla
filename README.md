@@ -1,7 +1,7 @@
 <h2 align="center">Hi, my name is Victor 👋</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/zYBKQvY.jpeg"  height="295">
+<img src="https://i.imgur.com/DiSQY1Q.png"  height="295">
 </p>
 
 
